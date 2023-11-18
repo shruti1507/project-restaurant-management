@@ -1,3 +1,5 @@
+#Shruti Kulashri[RA2311003011195]
+#Manasvi[RA2311003011192]
 # Define a simple menu with item names and prices
 menu = {
     "Burger": 110,
